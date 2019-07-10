@@ -1,0 +1,16 @@
+개발환경은 아래와 같습니다.
+
+IDE : IntelliJ IDEA Ultimate
+Git Tools : Source Tree
+OS : Mac OS X
+SpringBoot 2.1.6.RELEASE
+Java8
+Gradle
+
+
+기존에는 maven을 사용하였지만, gradle 빌드속도가 개선되어 도입하게 되었습니다.
+Git은 DVCS라고해서 코드 관리를 로컬저장소와 원격저장소 양쪽에서 관리할 수 있다는 장점이 있습니다.
+이에 비해 SVN은 원격저장소만을 가지고 있고, 코드 관리용 서버가 필요합니다.
+코드 관리용 서버를 구축할 필요 없이 Github를 사용하면 바로 원격 저장소를 사용할 수 있기 때문에 Git을 사용합니다.
+
+
